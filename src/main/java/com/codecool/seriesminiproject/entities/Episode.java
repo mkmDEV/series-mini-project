@@ -26,5 +26,5 @@ public class Episode {
 
     @ElementCollection
     @Singular
-    private List<String> starring;
+    private List<String> stars;
 }
